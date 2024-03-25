@@ -3568,7 +3568,7 @@ body.site-en .products-all {
 .item-phone {
     display: inline-block;
     margin-right: 35px;
-    background: url(/typo3conf/ext/ttmpl/Resources/Public/Tmpl/images/ico-phone.png) no-repeat left center;
+    background: url(/typo3conf/ext/ttmpl/Resources/Public/Tmplimages/ico-phone.png) no-repeat left center;
     padding-left: 30px;
     text-decoration: none;
     line-height: 22px;
@@ -3576,7 +3576,7 @@ body.site-en .products-all {
 
 .item-email {
     display: inline-block;
-    background: url(/typo3conf/ext/ttmpl/Resources/Public/Tmpl/images/ico-email.png) no-repeat left center;
+    background: url(/typo3conf/ext/ttmpl/Resources/Public/Tmplimages/ico-email.png) no-repeat left center;
     padding-left: 30px;
     text-decoration: none;
     line-height: 22px;
@@ -3787,7 +3787,7 @@ li.products-block:nth-child(6) {
     -moz-transition: bottom 1s ease-out 0.5s;
     -o-transition: bottom 1s ease-out 0.5s;
     transition: bottom 1s ease-out 0.5s;
-    background: linear-gradient(-50deg, rgba(169, 168, 188, 1), 20%, rgba(255, 255, 255, 1));
+    background: linear-gradient(-50deg, rgba(246, 232, 158, 1), 20%, rgba(255, 255, 255, 1));
 }
 
 li.products-block:nth-child(6):hover {
