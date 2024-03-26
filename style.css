@@ -3874,10 +3874,19 @@ li.products-block:nth-child(8):hover {
 .about_comp_blank {
     background: #ffffff;
     border-radius: 14px;
-    border: solid 1px #f3921a;
-    padding: 40px 96px;
+    padding: 40px 20px;
     height: 100%;
     position: relative;
+    box-shadow: 0px 0px 28px 0px rgba(0, 0, 0, 0.08);
+}
+
+.about_comp_blank2 {
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 40px 20px;
+    height: 100%;
+    position: relative;
+    border: solid 1px #f3921a;
 }
 
 
