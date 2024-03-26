@@ -3887,7 +3887,7 @@ li.products-block:nth-child(8):hover {
     height: 100%;
     color: #fff;
     position: relative;
-    background-image: url("/images/97.png");
+    background-image: url("images/97.png");
     background-position: left center;
 }
 
